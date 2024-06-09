@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Talpelwar</h1>
-<h3 align="center">Passionate Flutter Developer</h3>
+<h3 align="center">Passionate Flutter and FASTAPI Developer</h3>
 
 - 🔭 I’m currently working on **Flutter Development**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **FASTAPI**
 
 - 👨‍💻 All of my projects are available at [https://ayushtalpelwar.github.io/](https://ayushtalpelwar.github.io/)
 
